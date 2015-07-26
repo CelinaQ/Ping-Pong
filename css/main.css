@@ -28,7 +28,69 @@ article {
   margin-bottom: 1rem;
 }
 
+.game {
+  background-color: #858585;
+}
 
-footer {
+/* Ping 2 Colors */
+
+.c1 {
+  color: #ff0000;
+}
+
+.c2 {
+  color: #00ff0a;
+}
+
+.c3 {
+  color: #008cff;
+}
+
+/* footer */
+
+.copyright {
+  position: fixed;
   text-align: center;
+  padding: 4px 0 4px 0;
+  background-color: #1aa8d5;
+  bottom: 0;
+  width: 100%;
+}
+
+/* footer colors */
+
+.fc1 {
+  color: #faff00;
+}
+
+.fc2 {
+  color: #ffc700;
+}
+
+.fc3 {
+  color: #ffa100;
+}
+
+.fc4 {
+  color: #ff7a00;
+}
+
+.fc5 {
+  color: #ff5c00;
+}
+
+.fc6 {
+  color: #ff4500;
+}
+
+.fc7 {
+  color: #e24106;
+}
+
+.fc8 {
+  color: #c23805;
+}
+
+.fc9 {
+  color: #9f2d02;
 }
